@@ -1,3 +1,7 @@
+## Note
+
+This is almost certainly an out of date document.
+
 ## Creating Wickerlib 
 Creating the wickerlib.lib, wickerlib.dcm, and Wickerlib.pretty libraries. 
 
